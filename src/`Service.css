@@ -1,0 +1,13 @@
+.flex{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.item{
+    background-color: blue;
+    padding: 50px;
+}
+.mes{
+    width: 150px;
+    height: 170px;
+}
